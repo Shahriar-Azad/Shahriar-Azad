@@ -31,7 +31,7 @@ workflow_dispatch:
 
   
   
-  The sequence of runs in this workflow:
+  # The sequence of runs in this workflow:
 
 
 jobs:
@@ -46,13 +46,14 @@ jobs:
 
 
 
-# Steps represent a sequence of tasks that will be executed as part of the job steps:
+# Steps represent a sequence of tasks that will be executed as part of the job 
+    steps:
 
 # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-  - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
 # Generates the snake  
-  - uses: Platane/snk@master
+    - uses: Platane/snk@master
     id: snake-gif
     with:
       github_user_name: Shahriar-Azad
@@ -61,7 +62,7 @@ jobs:
       svg_out_path: dist/github-contribution-grid-snake.svg
 
  # show the status of the build. Makes it easier for debugging (if there's any issues).
-  - run: git status
+    - run: git status
 
   # Push the changes
   - name: Push changes
