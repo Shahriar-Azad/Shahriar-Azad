@@ -42,7 +42,7 @@ jobs:
 
       # Step 1: Checkout the repository
 
-      - name: Shahriar-Azad
+      - name: Checkout Repository
 
         uses: actions/checkout@v3
 
@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.Shahriar-Azad }}
+          github_user_name: ${{ github.repository_owner }}
 
 
 
