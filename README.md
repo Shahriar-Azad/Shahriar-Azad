@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shahriar Azad!<br>🚀 MERN Stack Developer | Passionate Coder | Tech Enthusiast<br>Welcome to my GitHub profile! I love building scalable web applications and creating seamless user experiences with cutting-edge technologies. Let’s build something amazing together!<br><br
+👋 Hi, I'm Shahriar Azad!<br>🚀 MERN Stack Developer | Passionate Coder | Tech Enthusiast<br>Welcome to my GitHub profile! I love building scalable web applications and creating seamless user experiences with cutting-edge technologies. Let’s build something amazing together!<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shahriar Azad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shahriar Azad) 
