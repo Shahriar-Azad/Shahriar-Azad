@@ -8,7 +8,7 @@
 
 ```javascript
 const shahriar = {
-    role: "MERN Stack Developer",
+    role: "Frontend Engineer", "AR/VR Enthusiast"
     location: "Dhaka, Bangladesh",
     focus: ["Scalable Systems", "Clean Architecture", "User Experience"],
     approach: "Build with purpose, code with clarity"
@@ -19,17 +19,20 @@ const shahriar = {
 
 ## What I Build With
 
+**Programming Language**
+Python • JavaScript • TypeScript • PHP 
+
 **Frontend**  
-React • Next.js • TypeScript • TailwindCSS
+React • Next.js • TailwindCSS
 
 **Backend**  
-Node.js • Express • Django • Socket.io
+Node.js • Express • PHP
 
 **Database**  
-MongoDB • PostgreSQL • Firebase
+MongoDB • Supabase • Firebase • MySQL
 
-**Tools**  
-Git • Vercel • Netlify • Figma
+**Tools & Deployment**  
+GitHub • Ngrok • Remote.js • Tensorflow.js • MindAR • Vercel • Netlify • Render
 
 ---
 
@@ -38,6 +41,7 @@ Git • Vercel • Netlify • Figma
 Working on scalable web applications with real-time features  
 Exploring advanced React patterns and system design  
 Building things that solve real problems
+Learning MindAR, Tensorflow.js, WebAI
 
 ---
 
