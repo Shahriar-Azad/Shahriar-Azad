@@ -36,16 +36,17 @@ MongoDB • Supabase • Firebase • MySQL
 **Tools & Deployment**  
 GitHub • Ngrok • Remote.js • Tensorflow.js • MindAR • Vercel • Netlify • Render
 
-----
+---
 
 ## Current Focus
 
 Working on scalable web applications with real-time features  
 Exploring advanced React patterns and system design  
 Building things that solve real problems
+
 Learning MindAR, Tensorflow.js, WebAI
 
-----
+---
 
 ## Connect
 
