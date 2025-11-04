@@ -21,7 +21,7 @@ const shahriar = {
 ## What I Build With
 
 
-**Programming**
+**Programming Languages-**
 Python • JavaScript • TypeScript • PHP 
 
 **Frontend**  
