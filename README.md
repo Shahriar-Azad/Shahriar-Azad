@@ -2,13 +2,14 @@
 
 # Shahriar Azad
 
-**Full Stack Developer** • Dhaka, Bangladesh 🇧🇩
+**Frontend Engineer** • Dhaka, Bangladesh 🇧🇩
 
 </div>
 
 ```javascript
 const shahriar = {
-    role: "Frontend Engineer", "AR/VR Enthusiast"
+    role: "Frontend Engineer", "AR/VR Enthusiast",
+    company: "AtlasAiDev",
     location: "Dhaka, Bangladesh",
     focus: ["Scalable Systems", "Clean Architecture", "User Experience"],
     approach: "Build with purpose, code with clarity"
