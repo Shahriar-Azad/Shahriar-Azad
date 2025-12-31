@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Shahriar%20Azad&fontSize=90&fontAlignY=35&desc=Frontend%20Engineer%20•%20AR/VR%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Scalable+Web+Applications;Crafting+Exceptional+User+Experiences" alt="Typing SVG" />
@@ -9,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Shahriar-Azad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahriarazad&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=shahriar-azad&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -102,31 +101,31 @@ I'm a passionate **Frontend Engineer** specializing in building scalable, perfor
 
 <div align="center">
 
-### 🎮 Contribution Game - Watch Snake Eat My Contributions!
+### 🎮 Contribution Snake Game - Watch it Eat My Contributions!
 
 ![snake gif](https://raw.githubusercontent.com/shahriar-azad/shahriar-azad/output/github-snake-dark.svg)
 
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahriarazad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarazad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahriar-azad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-azad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarazad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-azad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Contribution Streak"/>
 </p>
 
 ### 📊 Detailed Activity Graph
 
-[![Shahriar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriarazad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shahriar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriar-azad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahriarazad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shahriar-azad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>
@@ -137,8 +136,8 @@ I'm a passionate **Frontend Engineer** specializing in building scalable, perfor
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shahriarazad&repo=tourism-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/shahriarazad/tourism-platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shahriarazad&repo=ar-web-experience&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/shahriarazad/ar-web-experience)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shahriar-azad&repo=tourism-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/shahriar-azad/tourism-platform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shahriar-azad&repo=ar-web-experience&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/shahriar-azad/ar-web-experience)
 
 </div>
 
