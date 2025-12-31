@@ -1,4 +1,5 @@
 <div align="center">
+![snake gif](https://raw.githubusercontent.com/shahriar-azad/shahriar-azad/output/github-snake-dark.svg)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Shahriar%20Azad&fontSize=90&fontAlignY=35&desc=Frontend%20Engineer%20•%20AR/VR%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn)
 
